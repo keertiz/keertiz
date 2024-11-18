@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keertiz
+- 👋 Hi, I’m @keerti
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
